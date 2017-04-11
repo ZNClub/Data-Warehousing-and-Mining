@@ -1,0 +1,11 @@
+F	T	R	H	G
+Y	N	Y	N	M
+Y	Y	N	N	M
+N	Y	Y	Y	F
+N	Y	N	Y	M
+Y	Y	Y	Y	F
+N	N	Y	N	F
+Y	N	N	N	M
+Y	Y	N	N	M
+N	N	N	Y	F
+Y	N	N	N	M
